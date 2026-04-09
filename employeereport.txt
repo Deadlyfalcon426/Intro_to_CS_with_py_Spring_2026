@@ -1,0 +1,8 @@
+Employee System Report Functions
+
+
+First Name		Last Name		Salary		Commission		Bonus		
+----------		---------		------		----------		-----		
+J			j			$4.00	4.0			$16.00
+J			j		$4.00	4.0			$16.00
+J			j		$4.00	4.0			$16.00
