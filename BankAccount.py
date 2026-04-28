@@ -11,5 +11,6 @@ class bank_account:
             self.__balance -= amount
         else: 
             print("Error: Insufficent funds")
+    
     def get_balance(self):
         return self.__balance
